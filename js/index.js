@@ -1,5 +1,5 @@
-var Juice = ["normal Peach juice", " warm Gatorade", "Perrier",
- "calamansi", "pepsi", "unsparkling sparkling water", "lemon tea"]
+var Juice = ["normal peach juice", " grape Gatorade", "Perrier",
+ "calamansi", "pepsi", "warm sparkling water", "lemon tea"]
 
  function pickJuice(){
  	//Sets avariable called JuiceNumber that wil have a random Whole Number
@@ -18,8 +18,3 @@ var Juice = ["normal Peach juice", " warm Gatorade", "Perrier",
 	innerHTML = "<h1>" + Juice[JuiceNumber]
 	+" and "+Juice[JuiceNumber2]+"</h1>";
  }
-
-
-
-
-	
