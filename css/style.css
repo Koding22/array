@@ -10,7 +10,12 @@ header{
 	font-size: 25px;
 }
 button{
-	margin-left: 400px;
+	margin-left: 385px;
 	height: 25px; 
 	width: 330px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+
 }
